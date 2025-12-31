@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/faizulllahalfahim/faizulllahalfahim/main/banner.png" alt="Banner" width="100%" />
+<img src="https://ibb.co/dhRhRWd" alt="Banner" width="100%" />
 
 # 👋 Hi, I'm Faizullah Al Fahim
 
