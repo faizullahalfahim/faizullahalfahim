@@ -25,7 +25,7 @@ I enjoy turning ideas into clean, functional web applications and continuously i
 
 ### 🔹 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### 🔹 Backend
