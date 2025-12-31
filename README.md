@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/faizulllahalfahim/faizulllahalfahim/main/banner.png" alt="Banner" width="100%" />
+<img src="https://github.com/faizullahalfahim/faizullahalfahim/blob/a7661b2ffa6c821bbe9106b6c599827998bfb272/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 
 <h1 align="center">👋 Hi, I'm Faizullah Al Fahim</h1>
 <h3 align="center">🚀 MERN Stack Web Developer | Full-Stack JavaScript</h3>
