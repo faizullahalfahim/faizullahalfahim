@@ -60,7 +60,8 @@ I enjoy turning ideas into clean, functional web applications and continuously i
 ## 📌 What I'm Working On
 - Building MERN stack projects  
 - Improving problem-solving skills  
-- Writing clean and maintainable code  
+- Writing clean and maintainable code
+- exporing next.js
 
 ---
 
