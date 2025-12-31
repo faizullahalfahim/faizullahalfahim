@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://ibb.co/dhRhRWd" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/faizulllahalfahim/faizulllahalfahim/main/banner.png" alt="Banner" width="100%" />
 
 # 👋 Hi, I'm Faizullah Al Fahim
 
@@ -24,8 +24,8 @@ I am always learning new tools and improving my development skills.
 
 ### 🔹 Frontend Technologies
 - React.js  
-- Tailwind CSS  
-- Bootstrap  
+- Tailwind CSS
+- DaisyUI
 
 ### 🔹 Backend Technologies
 - Node.js  
