@@ -1,44 +1,60 @@
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/faizulllahalfahim/faizulllahalfahim/main/banner.png" alt="Banner" width="100%" />
+
 # 👋 Hi, I'm Faizullah Al Fahim
 
-🚀 MERN Stack Web Developer  
+🚀 **MERN Stack Web Developer**  
 💻 Passionate about building real-world web applications  
 
-## 🧑‍💻 About Me
-I am a MERN Stack Developer with experience in MongoDB, Express.js, React, and Node.js.  
-I enjoy turning ideas into functional and user-friendly web applications.  
-I am always learning new technologies and improving my development skills.
+---
 
-## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Tools: Git, GitHub, VS Code  
+## 🧑‍💻 About Me
+I am a MERN Stack Developer with hands-on experience in building full-stack web applications.  
+I work with modern JavaScript technologies and enjoy turning ideas into clean, functional, and user-friendly web apps.  
+I am always learning new tools and improving my development skills.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🔹 Programming Languages
+- JavaScript (ES6+)
+- HTML5  
+- CSS3  
+
+### 🔹 Frontend Technologies
+- React.js  
+- Tailwind CSS  
+- Bootstrap  
+
+### 🔹 Backend Technologies
+- Node.js  
+- Express.js  
+
+### 🔹 Database
+- MongoDB  
+
+### 🔹 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Postman  
+
+---
 
 ## 📌 What I'm Working On
 - Building MERN stack projects  
 - Improving problem-solving skills  
-- Learning best practices for clean code  
+- Writing clean and maintainable code  
+
+---
 
 ## 🎯 Goals
-- Become a skilled full-stack developer  
-- Work on real-world projects  
+- Become a skilled Full-Stack Developer  
+- Work on real-world applications  
 - Join a growth-oriented tech team  
 
+---
+
 ## 📫 Connect With Me
-- GitHub: https://github.com/faizulllahalfahim
-- LinkedIn: (https://www.linkedin.com/in/faizullahalfahim20)
-
-<!--
-**faizullahalfahim/faizullahalfahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: https://github.com/faizulllahalfahim  
+- LinkedIn: https://www.linkedin.com/in/faizullahalfahim20  
